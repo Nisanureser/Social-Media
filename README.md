@@ -46,17 +46,22 @@ This project is a *gesture-based, AI-supported mobile social media application* 
 ## 📸 Screenshots
 
 
-![image](https://github.com/user-attachments/assets/d6acd7e6-f97c-4b65-a4cd-8c543deb6b50)
-![image](https://github.com/user-attachments/assets/69917ceb-3459-4662-b747-ed2285ab5f7a)
+![image](https://github.com/user-attachments/assets/6021139b-64c6-44df-a989-c7937cb7228b)
+
+![image](https://github.com/user-attachments/assets/42d3c315-4b37-4e86-8795-a4ac0be5adb5)
+
 
 - App login/register screen
 
-![image](https://github.com/user-attachments/assets/8f94a178-9006-4260-963c-870ec3779772)
+![image](https://github.com/user-attachments/assets/ec9fbd2f-35a1-4b6c-a72c-f2eac69d92a6)
+
 
 - Post interaction using gestures  
 
-![image](https://github.com/user-attachments/assets/f22ffd55-47c4-4182-a9a8-ced406af977a)
-![image](https://github.com/user-attachments/assets/633f1d91-0719-4f8c-bdcf-3d35b9e84221)
+![image](https://github.com/user-attachments/assets/7f31e12d-6707-4c26-9200-e53a2da6f3c4)
+
+![image](https://github.com/user-attachments/assets/18b6ffe2-12ac-4fed-ba3d-f52e465b80bc)
+
 
 
 - Post detail screens
